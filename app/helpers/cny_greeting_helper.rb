@@ -1,0 +1,2 @@
+module CnyGreetingHelper
+end
